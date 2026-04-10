@@ -1,0 +1,6 @@
+# Ignore model weights and checkpoints
+*.safetensors
+*.bin
+*.pt
+/logs/
+/checkpoints/
